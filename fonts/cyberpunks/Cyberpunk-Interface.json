@@ -1,0 +1,47 @@
+{
+  "spec": 2,
+  "name": "Cyberpunk Interface",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf",
+    "ABCGintoNord-Bold": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf",
+
+    "ggsans-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks%20Italic.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks%20Italic.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks%20Italic.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks%20Italic.ttf",
+
+    "NotoSans-Normal": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
+    "NotoSans-NormalItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Medium.ttf",
+    "NotoSans-MediumItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Medium.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-SemiBold.ttf",
+    "NotoSans-SemiboldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-SemiBold.ttf",
+    "NotoSans-Bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
+    "NotoSans-BoldItalic": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf",
+
+    "SourceCodePro-Regular": "https://raw.githubusercontent.com/google/fonts/main/ofl/sharetechmono/ShareTechMono-Regular.ttf",
+    "SourceCodePro-Medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/sharetechmono/ShareTechMono-Regular.ttf",
+    "SourceCodePro-Semibold": "https://raw.githubusercontent.com/google/fonts/main/ofl/sharetechmono/ShareTechMono-Regular.ttf",
+    "SourceCodePro-Bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/sharetechmono/ShareTechMono-Regular.ttf",
+
+    "Roboto-Regular": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
+    "Roboto-Medium": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Medium.ttf",
+    "Roboto-Bold": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Bold.ttf",
+
+    "Whitney-Book": "https://raw.githubusercontent.com/google/fonts/main/ofl/rajdhani/Rajdhani-Regular.ttf",
+    "Whitney-Medium": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf",
+    "Whitney-Semibold": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf",
+    "Whitney-Bold": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf",
+
+    "Ginto-Nord": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf",
+    "Ginto-Nord-Bold": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf",
+    "Ginto-Nord-Black": "https://raw.githubusercontent.com/noxaur/ketsu/main/fonts/cyberpunks/files/Cyberpunks.ttf"
+  }
+}
